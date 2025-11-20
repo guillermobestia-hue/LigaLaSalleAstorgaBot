@@ -1,0 +1,7 @@
+{
+  "open": false,
+  "auctions": {},        /* player_name -> {"seller_team":team,"start_price":X,"bids":[{"captain_role":role,"amount":N}], "ends_in": null} */
+  "offers": [],          /* public offers: {"player_id","player_name","seller","price","locked"} */
+  "private_offers": {},  /* recipient_role -> [ {player_name, seller_role, price} ] */
+  "dueños": {}           /* player_name -> team_id */
+}

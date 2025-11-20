@@ -1,0 +1,8 @@
+{
+  "TOKEN": "TOKEN_DEL_BOT",
+  "PREFIX": "!",
+  "ADMIN_ROLE": "AdminLiga",
+  "FICHAJES_CHANNEL": "fichajes",
+  "AUTO_DAILY_ADD": true,
+  "DAILY_ADD_COUNT": 10
+}
